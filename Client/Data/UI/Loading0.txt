@@ -1,0 +1,2 @@
+Logo|LoadingBack|1280|720|640|360|2|4
+Logo|GunfireReborn|200|100|1140|650|-11|2

@@ -1,0 +1,1 @@
+Stage4_Boss|Terrain_Stage4_Boss|17|17|1|1|0|0|0|9|1
